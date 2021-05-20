@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="verificar_localizacao">Verificar Localização</string>
+    <string name="latitude_">Latitude:</string>
+    <string name="longitude_">Longitude:</string>
+    <string name="registrar">Registrar</string>
+    <string name="exibir_registros">Exibir Registros</string>
+</resources>

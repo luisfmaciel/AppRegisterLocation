@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">luis_felipe_maciel_DR4_TP1</string>
+    <string name="verificar_localizacao">Verificar Localização</string>
+    <string name="latitude_">Latitude:</string>
+    <string name="longitude_">Longitude:</string>
+    <string name="registrar">Registrar</string>
+    <string name="exibir_registros">Exibir Registros</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
